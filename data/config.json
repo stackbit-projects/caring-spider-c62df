@@ -74,5 +74,6 @@
             }
         ]
     },
-    "domain": "https://future-perfect.netlify.app"
+    "domain": "https://future-perfect.netlify.app",
+    "favicon": "images/FB_IMG_1627153638109.jpg"
 }
