@@ -4,7 +4,7 @@
     "accent_color": "yellow",
     "header": {
         "title": "Future Perfect",
-        "has_nav": true,
+        "has_nav": false,
         "nav_links": [
             {
                 "label": "Home",
